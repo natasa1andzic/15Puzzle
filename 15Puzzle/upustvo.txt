@@ -1,0 +1,2 @@
+Uputstvo za igricu:
+na ekranu se nalazi 9 dugmica - 8 sa brojevima na sebi i jedan prazan. Klikom na brojem oznaceno dugme, u slucaju da se nalazi pored praznog dugmeta, ta dva dugmeta menjaju mesta. U suprotnom, nista se ne desava. Cilj igre je postaviti dugmice u takve pozicije da daju sortiran horizontalni red od 1 do 8, i na kraju, u donjem desnom uglu treba da bude prazno dugme.
